@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greyDate">#cdcfd1</color>
+    <color name="timeBackgroundGreen">#e8feed</color>
+    <color name="greenJoinBtnColor">#00bb5a</color>
+    <color name="lightGrey">#D8D8D8</color>
+    <color name="colorPrimary">#FF4081</color>
+
+    <color name="light_gold">#FFE993</color>
+    <color name="light_blue">#B3E0F2</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+</resources>
