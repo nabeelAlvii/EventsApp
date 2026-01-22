@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/addEventFragment">
+
+    <!-- Add Event Screen -->
+    <fragment
+        android:id="@+id/addEventFragment"
+        android:name="com.example.eventsapp.Fragments.EventsFragment"
+        android:label="Add Event" />
+
+    <!-- Events List Screen -->
+    <fragment
+        android:id="@+id/eventsListFragment"
+        android:name="com.example.eventsapp.Fragments.ProfileFragment"
+        android:label="Events" />
+
+</navigation>

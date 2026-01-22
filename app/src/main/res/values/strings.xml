@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">eventssss</string>
+    <string name="location">Vagator Beach, Goa, India</string>
+    <string name="desc">Sunburn Festival is Asia\'s biggest electronic music festival, d pop on Vagator Beach. Recent lineups have included dance royalty such as Martin Garrix, Afrojack, Dimitri Vegas and Like Mike and many more </string>
+    <string name="add_event">Add Event</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="default_web_client_id">360297982146-jddfj8o0getq1sjfq6m95qfr9lkr6f4t.apps.googleusercontent.com</string>
+</resources>
